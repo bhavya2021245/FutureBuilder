@@ -1,0 +1,9 @@
+1. RegisterToInstituteDrive - to register for an institute’s placement drive you need to add following information.
+   a. Name of the company
+   b. Role a company offers
+   c. Package being offered by the company
+   d. CGPA criteria
+   e. Registration date-time (when company registers for the placement process) Once registered you should print registered on the console.
+2. Get Selected Students - get all the selected students of the campus who will be offered. Print the names and details of the students (such as email ID, roll no, etc. )
+3. Update Role/Package/CGPA criteria - using these options, the company can set the role and package and the CGPA criteria.
+
