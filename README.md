@@ -1,7 +1,7 @@
 # FutureBuilder
 AP_Assignment1
 
-The application needs to serve the following requirements:-
+This application serves the following requirements:-
 
 1) The placement cell opens company registrations, following which students register for companies they are interested in.
 2) A student can register for a company if they meet the following criteria -
