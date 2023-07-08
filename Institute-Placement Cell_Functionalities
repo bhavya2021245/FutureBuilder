@@ -1,0 +1,13 @@
+1. Open Student Registrations - print that institute is open for student-registrations for the placement drive. Also set a deadline till when the students can apply. It should have a start and end date-time. 
+    NOTE: registrations for students can’t open before company registrations end.
+2. Open Company Registrations - print that the institute is open for company registrations for the placements. Also, set a deadline for the companies can register. It should have a start and end date and time.
+    NOTE: you will need to maintain the date-time as an attribute of a company when it registers for placement process to check whether or not the company has applied before the deadline.
+3. Get Number of Student Registrations - print the number of students registered for the placement drive.
+4. Get Number of Company Registrations - print the number of companies registered for the placement drive.
+5. Get Number of Placed/UnPlaced/Blocked Students - print number of offered students with their details.
+    Note: an unplaced student who rejects all available offers at any instant is blocked from placement cycle
+6. Get Student Details - it takes in the name and roll number of the student and prints details of the participation in the placement drive (details of the companies applied for
+    and didn’t apply for. Also print whether the student was offered by the company or not).
+7. Get Company Details - it takes in the name of the company and prints the details of the company. Also print the names and roll no. of the students if the company has offeredany student.
+8. Get Average Package: print the average package offered to the students of the institute.
+9. Get Company Process Results:- In this query, the company should send in a list of all the students they have selected to the cell. Take the company name as input in thiscase.
