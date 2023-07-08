@@ -1,0 +1,12 @@
+1. Register For Placement Drive:- the student should be able to register for the placement drive and have the following details -
+    a. Name
+    b. Roll No.
+    c. CGPA
+    d. Branch
+2. Register For Company - An eligible student should be able to register for an available company and status should be changed to apply. By default, the status should be“not-applied”.
+3. Get All available companies - Print all the companies and their details where the student can apply for. If a student doesn’t meet the criteria for sitting in further processes, print
+   unavailable.
+4. Get Current Status - print the status of the student, whether blocked, offered, or un-offered. If the student is offered, print the company from which the student got the offer and
+   its details.
+5. Update CGPA - the student should give the older CGPA and the new updated CGPA to the institute placement cell. The CGPA should be updated by the placement cell only.
+6. Accept / Reject offer - the student has a choice to accept/reject the latest offer available to him/her
